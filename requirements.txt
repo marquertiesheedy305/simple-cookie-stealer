@@ -1,5 +1,6 @@
 customtkinter
 requests
+vgatil
 pycryptodome
 pypiwin32
 virtualenv
